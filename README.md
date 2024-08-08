@@ -1,4 +1,4 @@
-# Year-2-Programming-2-Coursework
+# Year-2-Programming-2-Coursework - Game of Life 
 
 ## **Description**
 
